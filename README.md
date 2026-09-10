@@ -1,3 +1,4 @@
+<!-- 
 # Muhammad Munir Akromin — Product Designer Portfolio
 
 A modern, editorial, and minimal personal portfolio website for **Muhammad Munir Akromin**, Product Designer & UI/UX Designer.
@@ -66,4 +67,4 @@ Update this single file to update links across the navigation, gateways, contact
 - **Explore My Work**: Large horizontal interactive gateways for Dribbble, LinkedIn, and Behance.
 - **About & Education**: Concise perspective statement and academic credentials at STMIK El Rahma Yogyakarta.
 - **Contact & Footer**: Dramatic typographic closing section with one-click copy email microinteraction and 2026 copyright.
-- **Custom Cursor**: Desktop-only spring-physics magnetic cursor with context badges (`OPEN ↗`, `EXPLORE ↗`), automatically disabled on touch devices.
+- **Custom Cursor**: Desktop-only spring-physics magnetic cursor with context badges (`OPEN ↗`, `EXPLORE ↗`), automatically disabled on touch devices. -->
