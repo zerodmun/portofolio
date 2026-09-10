@@ -36,7 +36,9 @@ export const experiences: ExperienceItem[] = [
       "UI/UX Design for TokoMobile",
       "Branding Illustration",
       "Design Flow Documentation",
-      "UI/UX Design for Primeguard",
+      "Landing Page Design & Build for TokoMobile",
+      "Website Design for BBPMSOH",
+
     ],
   },
   {
